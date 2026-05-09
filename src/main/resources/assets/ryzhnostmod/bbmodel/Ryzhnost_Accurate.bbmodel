@@ -1,0 +1,953 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "creation_time": 0,
+    "backup": false,
+    "model_format": "free",
+    "box_uv": true
+  },
+  "name": "Ryzhnost_Accurate",
+  "model_identifier": "",
+  "visible_box": [
+    1,
+    1,
+    0
+  ],
+  "variable_placeholders": "",
+  "resolution": {
+    "width": 256,
+    "height": 256
+  },
+  "elements": [
+    {
+      "name": "head_main",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -8,
+        24,
+        -8
+      ],
+      "to": [
+        8,
+        40,
+        8
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        2,
+        2
+      ],
+      "uuid": "731216e8-e0c9-4765-8a1e-ca0ee2c4bb01"
+    },
+    {
+      "name": "hair_back",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -8.5,
+        23.5,
+        6
+      ],
+      "to": [
+        8.5,
+        39.5,
+        9
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        68,
+        2
+      ],
+      "uuid": "41fb55af-a2d5-4a0a-b573-362bb432fac8"
+    },
+    {
+      "name": "hair_left",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        6,
+        23.5,
+        -7
+      ],
+      "to": [
+        9,
+        39.5,
+        7
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        110,
+        2
+      ],
+      "uuid": "4973fa77-b2ec-43bc-a66e-62b0e18c4a92"
+    },
+    {
+      "name": "hair_right",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -9,
+        23.5,
+        -7
+      ],
+      "to": [
+        -6,
+        39.5,
+        7
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        146,
+        2
+      ],
+      "uuid": "86554455-a502-424c-a066-1582de145407"
+    },
+    {
+      "name": "hair_top",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -8.2,
+        39.5,
+        -8.2
+      ],
+      "to": [
+        8.2,
+        42.0,
+        8.2
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        182,
+        2
+      ],
+      "uuid": "88934163-19cb-4633-81fb-0e54839ffcfe"
+    },
+    {
+      "name": "bang_left",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -8,
+        31,
+        -9
+      ],
+      "to": [
+        -1,
+        39,
+        -7
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        2,
+        36
+      ],
+      "uuid": "d9d33fb1-718b-4bf3-9173-7bf46499187b"
+    },
+    {
+      "name": "bang_mid",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -1.5,
+        30,
+        -9
+      ],
+      "to": [
+        1.5,
+        38,
+        -7
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        22,
+        36
+      ],
+      "uuid": "5afbb106-d668-484a-8883-97006ef4bc50"
+    },
+    {
+      "name": "bang_right",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        1,
+        31,
+        -9
+      ],
+      "to": [
+        8,
+        39,
+        -7
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        34,
+        36
+      ],
+      "uuid": "d1b906e7-b2f9-40aa-8beb-4f816716c9e5"
+    },
+    {
+      "name": "headphones_band",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -6.5,
+        39.5,
+        -1
+      ],
+      "to": [
+        6.5,
+        42.5,
+        1
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        54,
+        36
+      ],
+      "uuid": "44894a15-0ac6-4ca6-8fac-ce0501dddd35"
+    },
+    {
+      "name": "headphones_left",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        7.5,
+        28,
+        -4
+      ],
+      "to": [
+        10.5,
+        36,
+        4
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        86,
+        36
+      ],
+      "uuid": "a3dc9d8c-a5f1-49f5-82a6-07227e9c9ed4"
+    },
+    {
+      "name": "headphones_right",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -10.5,
+        28,
+        -4
+      ],
+      "to": [
+        -7.5,
+        36,
+        4
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        110,
+        36
+      ],
+      "uuid": "91f935be-98fa-40d1-9fc9-6a3dc8f45497"
+    },
+    {
+      "name": "glasses",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -5.5,
+        29.5,
+        -8.7
+      ],
+      "to": [
+        5.5,
+        34.5,
+        -8.1
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "uv_offset": [
+        134,
+        36
+      ],
+      "uuid": "dda602e2-98e6-4f5b-b372-d4e744a505f0"
+    },
+    {
+      "name": "neck",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -2,
+        20,
+        -2
+      ],
+      "to": [
+        2,
+        24,
+        2
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        24,
+        0
+      ],
+      "uv_offset": [
+        160,
+        36
+      ],
+      "uuid": "732a56d2-aa52-4bcf-bb31-03c2523a3e2a"
+    },
+    {
+      "name": "body",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -6,
+        12,
+        -4
+      ],
+      "to": [
+        6,
+        22,
+        4
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        20,
+        0
+      ],
+      "uv_offset": [
+        178,
+        36
+      ],
+      "uuid": "b9fcbc39-212c-4412-8bdb-c93ba458f87c"
+    },
+    {
+      "name": "body_outer",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -6.6,
+        11.6,
+        -4.6
+      ],
+      "to": [
+        6.6,
+        22.6,
+        4.6
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        20,
+        0
+      ],
+      "uv_offset": [
+        2,
+        56
+      ],
+      "uuid": "0d6769f7-d3c3-46c1-9f12-34e8555a6a75"
+    },
+    {
+      "name": "chest_left",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        0.7,
+        15.2,
+        -6.6
+      ],
+      "to": [
+        5.3,
+        20.0,
+        -2.2
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        20,
+        0
+      ],
+      "uv_offset": [
+        48,
+        56
+      ],
+      "uuid": "6f5a6f1f-9eed-4a60-9177-15bc1b8f1655"
+    },
+    {
+      "name": "chest_right",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -5.3,
+        15.2,
+        -6.6
+      ],
+      "to": [
+        -0.7,
+        20.0,
+        -2.2
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        20,
+        0
+      ],
+      "uv_offset": [
+        68,
+        56
+      ],
+      "uuid": "b0f7ec3b-f358-4fe8-b31c-85fdf391b6c5"
+    },
+    {
+      "name": "shirt_bottom",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -7.0,
+        10.0,
+        -4.7
+      ],
+      "to": [
+        7.0,
+        14.0,
+        4.7
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        0,
+        20,
+        0
+      ],
+      "uv_offset": [
+        88,
+        56
+      ],
+      "uuid": "85078dff-d65d-42f5-a923-89549638de0f"
+    },
+    {
+      "name": "left_upper_arm",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        6.6,
+        14.0,
+        -2.6
+      ],
+      "to": [
+        11.0,
+        22.0,
+        2.6
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8.8,
+        21.0,
+        0
+      ],
+      "uv_offset": [
+        136,
+        56
+      ],
+      "uuid": "93ebd4cd-cdd1-4db9-a6cc-c0540ae0aace"
+    },
+    {
+      "name": "left_forearm",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        7.0,
+        6.0,
+        -2.3
+      ],
+      "to": [
+        10.6,
+        14.2,
+        2.3
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8.8,
+        13.5,
+        0
+      ],
+      "uv_offset": [
+        156,
+        56
+      ],
+      "uuid": "231a8cb7-7f40-4214-863a-8bf5280cd3e6"
+    },
+    {
+      "name": "left_hand",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        6.4,
+        3.0,
+        -2.8
+      ],
+      "to": [
+        11.2,
+        6.2,
+        2.8
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        8.8,
+        6.0,
+        0
+      ],
+      "uv_offset": [
+        176,
+        56
+      ],
+      "uuid": "031bd058-8c7b-4927-ae45-026de6f2cf41"
+    },
+    {
+      "name": "right_upper_arm",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -11.0,
+        14.0,
+        -2.6
+      ],
+      "to": [
+        -6.6,
+        22.0,
+        2.6
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        -8.8,
+        21.0,
+        0
+      ],
+      "uv_offset": [
+        200,
+        56
+      ],
+      "uuid": "3cfefaa0-33e7-4db3-8194-7c62f5e93f51"
+    },
+    {
+      "name": "right_forearm",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -10.6,
+        6.0,
+        -2.3
+      ],
+      "to": [
+        -7.0,
+        14.2,
+        2.3
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        -8.8,
+        13.5,
+        0
+      ],
+      "uv_offset": [
+        220,
+        56
+      ],
+      "uuid": "605a99d1-a9e5-4c93-b780-526eed875ada"
+    },
+    {
+      "name": "right_hand",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -11.2,
+        3.0,
+        -2.8
+      ],
+      "to": [
+        -6.4,
+        6.2,
+        2.8
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        -8.8,
+        6.0,
+        0
+      ],
+      "uv_offset": [
+        2,
+        78
+      ],
+      "uuid": "608b6fa8-96af-43b3-bc6c-db424978bb3b"
+    },
+    {
+      "name": "left_leg",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        0.8,
+        0.0,
+        -2.1
+      ],
+      "to": [
+        4.2,
+        12.0,
+        2.1
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        2.5,
+        12.0,
+        0
+      ],
+      "uv_offset": [
+        26,
+        78
+      ],
+      "uuid": "4c0d20d1-3452-4dcf-9e5a-736c0d1f5146"
+    },
+    {
+      "name": "right_leg",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -4.2,
+        0.0,
+        -2.1
+      ],
+      "to": [
+        -0.8,
+        12.0,
+        2.1
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        -2.5,
+        12.0,
+        0
+      ],
+      "uv_offset": [
+        42,
+        78
+      ],
+      "uuid": "031522fa-d159-4083-a559-601751bb898d"
+    },
+    {
+      "name": "left_shoe",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        0.5,
+        -2.0,
+        -2.6
+      ],
+      "to": [
+        4.5,
+        0.8,
+        3.0
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        2.5,
+        0.0,
+        0
+      ],
+      "uv_offset": [
+        58,
+        78
+      ],
+      "uuid": "fad95a6e-b83f-4a38-9657-7cf4cbbbdf13"
+    },
+    {
+      "name": "right_shoe",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "light_emission": 0,
+      "from": [
+        -4.5,
+        -2.0,
+        -2.6
+      ],
+      "to": [
+        -0.5,
+        0.8,
+        3.0
+      ],
+      "autouv": 0,
+      "color": 0,
+      "origin": [
+        -2.5,
+        0.0,
+        0
+      ],
+      "uv_offset": [
+        80,
+        78
+      ],
+      "uuid": "1c91d8e0-53eb-4c04-8f89-47f60131067e"
+    }
+  ],
+  "outliner": [
+    {
+      "name": "head",
+      "origin": [
+        0,
+        32,
+        0
+      ],
+      "color": 0,
+      "uuid": "006c49a3-a9e7-4243-ab47-fe59230ae7c4",
+      "children": [
+        "731216e8-e0c9-4765-8a1e-ca0ee2c4bb01",
+        "41fb55af-a2d5-4a0a-b573-362bb432fac8",
+        "4973fa77-b2ec-43bc-a66e-62b0e18c4a92",
+        "86554455-a502-424c-a066-1582de145407",
+        "88934163-19cb-4633-81fb-0e54839ffcfe",
+        "d9d33fb1-718b-4bf3-9173-7bf46499187b",
+        "5afbb106-d668-484a-8883-97006ef4bc50",
+        "d1b906e7-b2f9-40aa-8beb-4f816716c9e5",
+        "44894a15-0ac6-4ca6-8fac-ce0501dddd35",
+        "a3dc9d8c-a5f1-49f5-82a6-07227e9c9ed4",
+        "91f935be-98fa-40d1-9fc9-6a3dc8f45497",
+        "dda602e2-98e6-4f5b-b372-d4e744a505f0"
+      ]
+    },
+    {
+      "name": "torso",
+      "origin": [
+        0,
+        20,
+        0
+      ],
+      "color": 0,
+      "uuid": "53bb4221-3c3d-47d8-8f6c-62daecc4d707",
+      "children": [
+        "732a56d2-aa52-4bcf-bb31-03c2523a3e2a",
+        "b9fcbc39-212c-4412-8bdb-c93ba458f87c",
+        "0d6769f7-d3c3-46c1-9f12-34e8555a6a75",
+        "6f5a6f1f-9eed-4a60-9177-15bc1b8f1655",
+        "b0f7ec3b-f358-4fe8-b31c-85fdf391b6c5",
+        "85078dff-d65d-42f5-a923-89549638de0f"
+      ]
+    },
+    {
+      "name": "left_arm",
+      "origin": [
+        8.8,
+        21,
+        0
+      ],
+      "color": 0,
+      "uuid": "44ed704c-beda-4d4e-ba41-c4dada9d940d",
+      "children": [
+        "93ebd4cd-cdd1-4db9-a6cc-c0540ae0aace",
+        "231a8cb7-7f40-4214-863a-8bf5280cd3e6",
+        "031bd058-8c7b-4927-ae45-026de6f2cf41"
+      ]
+    },
+    {
+      "name": "right_arm",
+      "origin": [
+        -8.8,
+        21,
+        0
+      ],
+      "color": 0,
+      "uuid": "919284ea-503a-4142-ab8c-5c99b022ecd7",
+      "children": [
+        "3cfefaa0-33e7-4db3-8194-7c62f5e93f51",
+        "605a99d1-a9e5-4c93-b780-526eed875ada",
+        "608b6fa8-96af-43b3-bc6c-db424978bb3b"
+      ]
+    },
+    {
+      "name": "left_leg",
+      "origin": [
+        2.5,
+        12,
+        0
+      ],
+      "color": 0,
+      "uuid": "86939f58-9c45-4fc5-b23f-4c742481b05f",
+      "children": [
+        "4c0d20d1-3452-4dcf-9e5a-736c0d1f5146",
+        "fad95a6e-b83f-4a38-9657-7cf4cbbbdf13"
+      ]
+    },
+    {
+      "name": "right_leg",
+      "origin": [
+        -2.5,
+        12,
+        0
+      ],
+      "color": 0,
+      "uuid": "f3eab882-9423-4691-8c47-71791a001840",
+      "children": [
+        "031522fa-d159-4083-a559-601751bb898d",
+        "1c91d8e0-53eb-4c04-8f89-47f60131067e"
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "path": "ryzhnost_texture_precise.png",
+      "name": "ryzhnost_texture_precise",
+      "folder": "",
+      "namespace": "",
+      "id": "0",
+      "particle": false,
+      "render_mode": "default",
+      "visible": true,
+      "saved": true,
+      "mode": "bitmap",
+      "source": ""
+    }
+  ],
+  "texture_groups": []
+}

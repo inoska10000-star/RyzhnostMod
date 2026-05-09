@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { url = 'https://maven.neoforged.net/releases' }
+        maven { url = 'https://libraries.minecraft.net' }
+    }
+}
+
+dependencyResolutionManagement {
+    // NeoForge ModDev сам добавляет Minecraft/Mojang repositories.
+    // Поэтому нельзя ставить FAIL_ON_PROJECT_REPOS, иначе сборка падает.
+    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+
+    repositories {
+        mavenCentral()
+        maven { url = 'https://maven.neoforged.net/releases' }
+        maven { url = 'https://libraries.minecraft.net' }
+    }
+}
+
+rootProject.name = 'RyzhnostMod'

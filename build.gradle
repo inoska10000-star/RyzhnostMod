@@ -1,0 +1,29 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '1.0.21'
+}
+
+version = '1.0.0'
+group = 'com.example'
+base.archivesName = 'ryzhnostmod'
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = '21.1.180'
+
+    runs {
+        client {
+            client()
+        }
+        server {
+            server()
+        }
+    }
+
+    mods {
+        ryzhnostmod {
+            sourceSet sourceSets.main
+        }
+    }
+}
